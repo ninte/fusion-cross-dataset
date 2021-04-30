@@ -29,7 +29,7 @@ Volkswagen  26      13          41      94
 
 
 
-COMPCARS
+COMPCARS source models used to build CompCars-Makers
 Audi A1
 Audi A3 hatchback
 Audi A3 sedan
@@ -48,24 +48,24 @@ Audi S5 convertible
 Audi S8
 Audi TT coupe
 Audi TTS coupe
-BMW\t1 Series hatchback
-BMW\t2 Series
-BMW\t3 Series
-BMW\t3 Series GT
-BMW\t3 Series convertible
-BMW\t3 Series coupe
-BMW\t3 Series estate
-BMW\t4 Series convertible
-BMW\t5 Series
-BMW\t5 Series GT
-BMW\t6 Series
-BMW\t7 Series
-BMW\tM5
-BMW\tX1
-BMW\tX3
-BMW\tX4
-BMW\tX5
-BMW\tX6
+BMW 1 Series hatchback
+BMW 2 Series
+BMW 3 Series
+BMW 3 Series GT
+BMW 3 Series convertible
+BMW 3 Series coupe
+BMW 3 Series estate
+BMW 4 Series convertible
+BMW 5 Series
+BMW 5 Series GT
+BMW 6 Series
+BMW 7 Series
+BMW M5
+BMW X1
+BMW X3
+BMW X4
+BMW X5
+BMW X6
 Buick Enclave
 Buick Encore
 Buick Excelle
@@ -81,7 +81,6 @@ Cadillac CTS
 Cadillac SRX
 Cadillac Seville SLS
 Cadillac XTS
-Changan\tBenben MINI
 Chevrolet AVEO hatchback
 Chevrolet Aveo
 Chevrolet Aveo sedan
@@ -196,10 +195,10 @@ Mitsubishi Outlander abroad ver
 Mitsubishi Pajero
 Nissa Nissan GT-R
 Nissa Nissan NV200
-Porsche\t911
-Porsche\tCanyenne
-Porsche\tCayman
-Porsche\tPanamera
+Porsche 911
+Porsche Canyenne
+Porsche Cayman
+Porsche Panamera
 SAAB D70
 Smart fortwo
 Subaru Impreza hatchback
@@ -260,7 +259,7 @@ Volkswagen Volkswagen Eos
 
 
 
-VMMRDB
+VMMRDB source models used to build VMMR-db-Makers
 
 audi_a3
 audi_a4
@@ -606,7 +605,7 @@ volkswagen_touareg
 
 
 
-FRONTAL103
+FRONTAL103 source models used to build Frontal-103-Makers
 
 Audi A1
 Audi A3
@@ -690,7 +689,6 @@ Cadillac XTS(海外)
 Cadillac 凯雷德ESCALADE
 Cadillac 凯雷德Hybrid
 Cadillac 赛威
-Changan 奔奔Mini
 Chevrolet Sonic
 Chevrolet 乐风
 Chevrolet 乐风RV
