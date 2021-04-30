@@ -1,0 +1,76 @@
+                            Fusion  Compcars            VMMR-db                     Frontal-103
+Audi A3                     0       00                  11                          0019,0020
+Audi A4                     1       01,07               12                          0021,0022
+Audi A6                     2       02                  13                          0024,0025
+Audi A8                     3       12                  14                          0027,0028
+Audi Q7                     4       13                  16                          0032
+Audi TT                     5       16,17               19                          0044,0045,0046
+BMW serie 1                 6       35                  20,21                       0068,0069,0070
+BMW serie 3                 7       18,23,24,25,26      22,23,24,25,26,27,28,29     0072
+BMW serie 5                 8       20,28               30,31,32,33,34,35,36        0073,0074
+BMW serie 6                 9       29                  37                          0075,0076
+BMW serie 7                 10      30                  38,39,40                    0077
+BMW X3                      11      31                  44                          0084
+BMW X5                      12      33                  45                          0086,0087
+Buick Lacrosse              13      54                  50                          0145
+Buick Regal                 14      52                  55                          0144
+Cadillac CTS                15      187                 61                          0158,0159
+Cadillac SRX                16      189                 66                          0162
+Cadillac XTS                17      186                 68                          0165,0166
+Chevrolet Aveo              18      404,410,415         71                          0243,0250
+Chevrolet Camaro            19      416                 76                          0254
+Chevrolet Cruze             20      407,408             84                          0255,0256
+Chevrolet Malibu            21      412                 90                          0258
+Chrysler 300                22      244                 107                         0260
+Fiat 500                    23      176                 135                         0369
+Ford Mustang                24      172                 161                         0394
+Honda Accord                25      61                  176                         0509,0510
+Honda Civic                 26      64                  177                         0491,0492
+Honda CR-V                  27      65                  178                         0493
+Infiniti G                  28      238                 206,207                     0524
+JEEP Compass                29      181                 223                         0562
+KIA Forte                   30      250                 229                         0596
+KIA Sorento                 31      260                 235                         0611
+KIA Soul                    32      256                 236                         0612
+KIA Sportage                33      255,257             238                         0610
+Land Rover Discovery        34      245                 239                         0624,0625
+Land Rover Range Rover      35      246,248             242                         0626,0628
+Lexus CT                    36      316                 243                         0636
+Lexus ES                    37      317,326             244,245,246                 0637
+Lexus GS                    38      318,319             247,248,249                 0638
+Lexus GX                    39      320                 250                         0640
+Lexus IS                    40      321,322             251,252,253                 0641
+Lexus RX                    41      324,325             257,258,259                 0649
+Mazda 2                     42      338,339             272                         0702
+Mazda 3                     43      336,340,341,342     273                         0703,0704,0706
+Mazda 5                     44      337                 274                         0707
+Mazda 6                     45      335                 275                         0708,0709
+Mazda CX7                   46      332                 278                         0699
+Mercedes C                  47      36,39,42            287,288,289,290,291,292,293 0727,0728
+Mercedes E                  48      38,43,44            300,301,302,303,304         0729,0730
+Mercedes GL                 49      45                  305                         0734,0737
+Mercedes GLK                50      37                  306                         0741
+Mercedes S                  51      48                  312,313,314                 0747,0755
+Mercedes SLK                52      47                  317                         0750,0751
+Mini Cooper                 53      196                 328                         0691,0692
+Mitsubishi Lancer           54      399                 334                         0770,0771
+Mitsubishi Montero          55      393                 336                         0773,0774
+Mitsubishi Outlander        56      397                 337                         0772
+Nissan GTR                  57      209                 346                         0788
+Porsche 911                 58      89                  383                         0832
+Porsche Cayenne             59      90                  386                         0836
+Porsche Panamera            60      88                  387                         0839
+Smart fortwo                61      360                 409                         0888
+Toyota Camry                62      287,288             427                         0929,0930
+Toyota Land Cruiser         63      278                 433                         0928
+Toyota Prius                64      280                 438                         0939
+Toyota RAV4                 65      276                 439                         0922,0923
+Toyota Yaris                66      289                 449                         0925,0926,0946
+Volkswagen Beetle           67      136                 450,456                     0968
+Volkswagen CC               68      150                 451                         0970
+Volkswagen EOS              69      132                 452                         0974
+Volkswagen Golf             70      133,134,145,146     453,454                     0975,1001
+Volkswagen Jetta            71      147                 455                         0978
+Volkswagen Passat           72      127,128             457                         0984,0985,1004
+Volkswagen Tiguan           73      131,143             460                         0993,0995
+Volkswagen Touareg          74      140                 461                         0996
